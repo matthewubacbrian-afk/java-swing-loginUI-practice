@@ -1,2 +1,2 @@
 # java-swing-loginUI-practice
-Healthcare Information System UI – Java Swing Login
+SignIn and Sign-UP – Java Swing Login
