@@ -1,2 +1,2 @@
 # java-swing-loginUI-practice
-SignIn and Sign-UP – Java Swing Login
+SignIn and SignUp – Java Swing Login
